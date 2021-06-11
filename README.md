@@ -1,10 +1,10 @@
 # <h1 align = "center">Responsive Portfolio</h1>
 ### <h3 align= "center">Fully responsive and well designed portfolio</h1>
-<img src="img/Screenshot (65).png" width="200"> &nbsp; <img src="Screenshots/Register Page.jpg" width="200"> &nbsp; <img src="Screenshots/Friend Requests Page.jpg" width="200"> &nbsp; <img src="Screenshots/Chats Page.jpg" width="200"> &nbsp; 
+<img src="img/Screenshot (65).png" width="200"> &nbsp; <img src="img/Screenshot (66).png" width="200"> &nbsp; <img src="img/Screenshot (67).png" width="200"> &nbsp; <img src="img/Screenshot (68).png" width="200"> &nbsp; 
 #
-<img src="Screenshots/Friends Page.jpg" width="200"> &nbsp; <img src="Screenshots/Chat.jpg" width="200"> &nbsp; <img src="Screenshots/All Users.jpg" width="200"> &nbsp; <img src="Screenshots/More Options page.jpg" width="200"> &nbsp; 
+<img src="img/Screenshot (69).png" width="200"> &nbsp; <img src="img/Screenshot (70).png" width="200"> &nbsp; <img src="img/Screenshot (71).png" width="200"> &nbsp; <img src="img/Screenshot (72).png" width="200"> &nbsp; 
 #
-<img src="Screenshots/Settings Page.jpg" width="200"> &nbsp; <img src="Screenshots/Request Permission Page.jpg" width="200"> &nbsp; <img src="Screenshots/Status Page.jpg" width="200"> &nbsp; 
+<img src="img/Screenshot (73).png" width="200"> &nbsp;  
 # FEATURES
 
 ### &nbsp;  --->Resume Download
