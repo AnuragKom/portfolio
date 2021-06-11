@@ -1,10 +1,10 @@
 # <h1 align = "center">Responsive Portfolio</h1>
 ### <h3 align= "center">Fully responsive and well designed portfolio</h1>
-<img src="img/Screenshot (65).png" width="200"> &nbsp; <img src="img/Screenshot (66).png" width="200"> &nbsp; <img src="img/Screenshot (67).png" width="200"> &nbsp; <img src="img/Screenshot (68).png" width="200"> &nbsp; 
+<img src="img/Screenshot (65).png" width="300"> &nbsp; <img src="img/Screenshot (66).png" width="300"> &nbsp; <img src="img/Screenshot (67).png" width="300"> &nbsp; <img src="img/Screenshot (68).png" width="300"> &nbsp; 
 #
-<img src="img/Screenshot (69).png" width="200"> &nbsp; <img src="img/Screenshot (70).png" width="200"> &nbsp; <img src="img/Screenshot (71).png" width="200"> &nbsp; <img src="img/Screenshot (72).png" width="200"> &nbsp; 
+<img src="img/Screenshot (69).png" width="300"> &nbsp; <img src="img/Screenshot (70).png" width="300"> &nbsp; <img src="img/Screenshot (71).png" width="300"> &nbsp; <img src="img/Screenshot (72).png" width="300"> &nbsp; 
 #
-<img src="img/Screenshot (73).png" width="200"> &nbsp;  
+<img src="img/Screenshot (73).png" width="300"> &nbsp;  
 # FEATURES
 
 ### &nbsp;  --->Resume Download
