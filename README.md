@@ -1,6 +1,6 @@
 # <h1 align = "center">Responsive Portfolio</h1>
 ### <h3 align= "center">Fully responsive and well designed portfolio</h1>
-<img src="img/Screenshot(65).png" width="200"> &nbsp; <img src="Screenshots/Register Page.jpg" width="200"> &nbsp; <img src="Screenshots/Friend Requests Page.jpg" width="200"> &nbsp; <img src="Screenshots/Chats Page.jpg" width="200"> &nbsp; 
+<img src="portfolio/img/Screenshot(65).png" width="200"> &nbsp; <img src="Screenshots/Register Page.jpg" width="200"> &nbsp; <img src="Screenshots/Friend Requests Page.jpg" width="200"> &nbsp; <img src="Screenshots/Chats Page.jpg" width="200"> &nbsp; 
 #
 <img src="Screenshots/Friends Page.jpg" width="200"> &nbsp; <img src="Screenshots/Chat.jpg" width="200"> &nbsp; <img src="Screenshots/All Users.jpg" width="200"> &nbsp; <img src="Screenshots/More Options page.jpg" width="200"> &nbsp; 
 #
