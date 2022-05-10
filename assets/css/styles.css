@@ -453,10 +453,10 @@ color: var(--first-color);
     background-color: var(--first-color);
 }
 .skills__html{
-    width: 70%;
+    width: 60%;
 }
 .skills__css{
-    width: 600%;
+    width: 60%;
 }
 .skills__js{
     width: 50%;
