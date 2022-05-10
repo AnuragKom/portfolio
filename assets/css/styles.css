@@ -453,25 +453,25 @@ color: var(--first-color);
     background-color: var(--first-color);
 }
 .skills__html{
-    width: 90%;
+    width: 70%;
 }
 .skills__css{
-    width: 80%;
+    width: 600%;
 }
 .skills__js{
-    width: 80%;
+    width: 50%;
 }
 .skills__react{
-    width: 70%;
+    width: 20%;
 }
 .skills__php{
-    width: 80%;
+    width: 60%;
 }
 .skills__node{
-    width: 65%;
+    width: 55%;
 }
 .skills__firebase{
-    width: 70%;
+    width: 60%;
 }
 .skills__python{
     width: 40%;
