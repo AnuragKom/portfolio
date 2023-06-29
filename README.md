@@ -8,7 +8,7 @@
 # FEATURES
 
 ### &nbsp;  --->Resume Download
-* One can download your resume from the site
+* One can download resume from the site
 
 #### &nbsp; --->Night-Light enabled
 * Comfortable view in night
