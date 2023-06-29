@@ -89,19 +89,18 @@ modalCloses.forEach((modalClose)=>{
 })
 
 /*==================== PORTFOLIO SWIPER  ====================*/
-let swiperPortfolio =new Swiper('.portfolio__container',{
-    cssMode:true,
+let swiperPortfolio = new Swiper('.portfolio__container', {
+    cssMode: true,
     loop: true,
-    navigation:{
-        nextE1: '.swiper-button-next',
-        prevE1: '.swiper-button-prev',
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
     },
-    // pagination: {
-    //     e1: '.swiper-pagination',
-    //     clickable: true,
-    // },
-  
-});
+    pagination: {
+      el: '.swiper-pagination',
+      clickable: true,
+    },
+  });
 
 /*==================== TESTIMONIAL ====================*/
 let swiperTestimonial =new Swiper('.testimonial__container',{
@@ -214,7 +213,7 @@ SecureToken:"fbf31702-bb7f-4a4e-9c1c-4ccf17ee777f",
             }
             else{
                 console.error (message);
-                alert('There is error at sending message. ')
+                alert('Contact service is currently off please email directly. ')
                 
             }
 
