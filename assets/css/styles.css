@@ -452,38 +452,38 @@ color: var(--first-color);
     display: block;
     background-color: var(--first-color);
 }
-.skills__html{
+.skills__react{
     width: 70%;
 }
-.skills__css{
+.skills__javascript{
+    width: 75%;
+}
+.skills__htmlcss{
     width: 60%;
 }
-.skills__js{
-    width: 60%;
+.skills__mui{
+    width: 50%;
 }
-.skills__react{
-    width: 65%;
-}
-.skills__php{
-    width: 60%;
+.skills__java{
+    width: 70%;
 }
 .skills__node{
     width: 65%;
 }
-.skills__firebase{
-    width: 50%;
+.skills__mysql{
+    width: 70%;
 }
 .skills__python{
     width: 40%;
 }
-.skills__figma{
-    width: 60%;
-}
-.skills__sketch{
+.skills__intellij{
     width: 70%;
 }
-.skills__photoshop{
-    width: 85%;
+.skills__vscode{
+    width: 70%;
+}
+.skills__androidstudio{
+    width: 65%;
 }
 
 .skills__close .skills__list{
@@ -594,20 +594,25 @@ color: var(--first-color);
 .services__button:hover .button__icon{
     transform: translateX(.25rem);
 }
-.services__modal{
+.services__modal {
     position: fixed;
     top: 0;
     left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: rgba(0, 0, 0, .5);
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.6);
     display: flex;
     align-items: center;
-    padding: 0 1rem;
-    z-index: var(--z-modal);
-    visibility: hidden; 
-    
-    
+    justify-content: center;
+    padding: 1rem;
+    z-index: 1000; /* ensure it's on top */
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+.services__modal.active-modal {
+    visibility: visible;
+    opacity: 1;
 }
 .services__modal-content{
     position: relative;
